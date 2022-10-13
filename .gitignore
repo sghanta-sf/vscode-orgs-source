@@ -3,3 +3,4 @@ node_modules
 .localdevserver
 .DS_Store
 .sfdx
+.sf
